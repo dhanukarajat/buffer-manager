@@ -87,6 +87,6 @@ If all frames are pinned in some sweep of the clock hand (that is, the value of 
 
 This project tested our understanding of the lower layers of the database architecture. We clearly understood the concept of Buffer Management and application of clock replacement policy in it. We also gained the hands on knowledge of the *Minibase* system. Initially we struggled with the class packages and methods defined in bufmgr package of *Minibase*, but overall it was a great learning experience. We hope to receive such challenging and interesting projects further in the course.
 
-*Skeleton Code provided by _Prof. Sharma Chakravarthy_ (UT Arlington)
+*Skeleton Code provided by _Prof. Sharma Chakravarthy_ (UT Arlington)*
 
-Team members: Rajat Dhanuka & Anvit Bhimsain Joshi* 
+*Team members: Rajat Dhanuka & Anvit Bhimsain Joshi* 
