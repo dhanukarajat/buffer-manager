@@ -1,7 +1,7 @@
 #Buffer manager with the Clock replacement policy#
 
 In this project, we have implemented the buffer manager layer. This layer is responsible for
-communicating with the disk space manager and retrieving pages, that are requested by the upper
+communicating with the disk space manager and retrieving pages requested by the upper
 layer. The buffer manager reads disk pages into a main memory page as needed. The buffer
 manager is used by access methods, heap files, and relational operators to read, write, allocate
 and de-allocate pages.
@@ -85,7 +85,7 @@ If all frames are pinned in some sweep of the clock hand (that is, the value of 
 
 ###*Conclusion*###
 
-This project tested our understanding of the lower layers of the database architecture. We clearly understood the concept of Buffer Management and application of clock replacement policy in it. We also gained the hands on knowledge of the *Minibase* system. Initially we struggled with the class packages and methods defined in bufmgr package of *Minibase*, but overall it was a great learning experience. We hope to receive such challenging and interesting projects further in the course.
+This project tests our understanding of the lower layers of the database architecture. We clearly understood the concept of Buffer Management and application of clock replacement policy in it. We also gained the hands on knowledge of the *Minibase* system. Initially we struggled with the class packages and methods defined in bufmgr package of *Minibase*, but overall it was a great learning experience. We hope to receive more challenging and interesting projects further in the course.
 
 *Skeleton Code provided by _Prof. Sharma Chakravarthy_ (UT Arlington)*
 
